@@ -1,4 +1,4 @@
-# Supervivencia Zombi — Three.js
+# Supervivencia Zombi 
 
 ## Ejecutar
 1. Descomprime `t3_proyecto.zip`.
